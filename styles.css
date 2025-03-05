@@ -13,14 +13,14 @@
 body {
     background-color: var(--Red);
     background-image: url(images/bg-intro-mobile.png);
-    width: 100vw;
+    width: 90vw;
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 1rem;
     font-family: 'Poppins', sans-serif;
-    overflow: hidden;
+    overflow: visible;
 }
 main  {
     display: flex;
