@@ -18,17 +18,21 @@
   </div>
   <div class="right">
 <p class="try"><b class="">Try it free 7 days</b> then $20/mo. thereafter</p>
-<form class="form">
-  <input id="first-name" placeholder="First Name ">
+<form class="form" id="form">
+  <input class="input" id="first-name" placeholder="First Name" name="first-name">
+  <div class="error"></div>
   <input id="last-name" placeholder="Last Name">
+  <div class="error"></div>
   <input id="email" type="email" placeholder="Email Address">
+  <div class="error"></div>
   <input id="password" type="password" placeholder="Password">
+  <div class="error"></div>
   <button id="btn" type="submit">Claim your free trial</button>
   <p class="micro">By clicking the button, you are agreeing to our
     <a href="#" class="tac">Terms and Services</a></p>
 </form>
   </div>
 </main>
-  
+  <script src="script.js"></script>
 </body>
 </html>
