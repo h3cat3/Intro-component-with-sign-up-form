@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/h3cat3/Intro-component-with-sign-up-form/settings/pages)
+- Solution URL: (https://github.com/h3cat3/Intro-component-with-sign-up-form/)
 - Live Site URL: (https://h3cat3.github.io/Intro-component-with-sign-up-form/)
 
 ## My process
